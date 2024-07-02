@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 5%;
+}
+
+.header-form{
+    background-color: blueviolet;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.container > .form{
+    margin-top: 2%;
+}
+
+form .form-check{
+   margin: 5% 0;
+}
